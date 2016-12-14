@@ -36,9 +36,9 @@ $ npm run devLinux
 ### Routes
 
 ```
-    GET /ping
-    GET /login
-    GET /protected
+    GET  /ping
+    POST /login
+    GET  /protected
 ```
 
 ### Examples
