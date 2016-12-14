@@ -1,6 +1,6 @@
 # `template-express-jwt`
 
-node module containing jwt authentication
+template - Express JS with jwt authentication
 
 ## Installation
 
