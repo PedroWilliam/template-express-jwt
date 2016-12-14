@@ -17,17 +17,17 @@ navigate to api folder
    
 On windows open command prompt or Windows Powershell
 
+```
+PS C:\> npm run devWin
+```
+
+### On Linux open bash
+
 Set permission to file
 
 ```sh
 $ sudo chmod +x scripts/development.sh
 ```
-
-```sh
-$ npm run devWin
-```
-
-### On Linux open bash
 
 ```sh
 $ npm run devLinux
