@@ -7,7 +7,7 @@ node module containing jwt authentication
 clone this repository and navigate to api folder
     
 ```sh
-$ npm install`
+$ npm install
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ navigate to api folder
 On windows open command prompt or Windows Powershell
 
 ```sh
-$ npm run devWin`
+$ npm run devWin
 ```
 
 ### On Linux open bash
